@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="webresources">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Tomcat/Tomcat9/apache-tomcat-9.0.8-src/apache-tomcat-9.0.8-src/test/webresources/dir1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Tomcat/Tomcat9/apache-tomcat-9.0.8-src/apache-tomcat-9.0.8-src/test/webresources/non-static-resources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Tomcat/Tomcat9/apache-tomcat-9.0.8-src/apache-tomcat-9.0.8-src/test/webresources/dir1-internal.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

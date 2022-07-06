@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="context1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Tomcat/Tomcat9/apache-tomcat-9.0.8-src/apache-tomcat-9.0.8-src/test/deployment/dir with spaces/context.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

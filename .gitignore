@@ -1,0 +1,6 @@
+# Project exclude paths
+/DesignPatterns/target/
+/EurakeClient/target/
+/EurakeServer/target/
+/LoggingFramework/target/
+/Shiro/target/
