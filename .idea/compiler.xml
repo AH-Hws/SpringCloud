@@ -16,9 +16,6 @@
         <module name="EurakeClient" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="apache-tomcat-9.0.8-src" target="1.5" />
-    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
