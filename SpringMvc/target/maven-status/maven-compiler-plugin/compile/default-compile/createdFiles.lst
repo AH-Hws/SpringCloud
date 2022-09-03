@@ -1,0 +1,4 @@
+com\spring\mvc\MvcApplication.class
+com\spring\mvc\controller\MvcController.class
+com\spring\mvc\model\User.class
+com\spring\mvc\model\Car.class

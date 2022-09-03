@@ -1,0 +1,10 @@
+server:
+  port: 7001
+  servlet:
+    context-path: /mvc-context # 设置tomcat 容器Context路径
+
+spring:
+  mvc:
+    servlet:
+      path: /mvc
+      load-on-startup: 1 # 初始化dispatcherServlet
