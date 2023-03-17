@@ -7,13 +7,15 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="MyBatis" />
-        <module name="apache-tomcat-9.0.8-src" />
-        <module name="Shiro" />
-        <module name="DesignPatterns" />
         <module name="EurakeServer" />
+        <module name="apache-tomcat-9.0.8-src" />
+        <module name="JavaBase" />
+        <module name="MiddleSoft" />
+        <module name="DesignPatterns" />
+        <module name="Shiro" />
         <module name="LoggingFramework" />
         <module name="EurakeClient" />
+        <module name="MyBatis" />
         <module name="SpringMvc" />
       </profile>
     </annotationProcessing>
